@@ -1,0 +1,33 @@
+h1{
+    color:darkgreen;
+
+}
+@font-face {
+	font-family: 'GolosTextWebMedium';
+	src: 
+		url('../PT/PT/Golos-Text/golos-text_medium.woff') format('woff2'),
+		url('../PT/PT/Golos-Text/golos-text_medium.woff2') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+h3{
+    font-family: 'GolosTextWebMedium' ,sans-serif;
+    color:darkgreen;
+    margin-left: 200px;
+}
+.signature {
+    color:darkslategray;
+    text-decoration: solid;
+    text-size-adjust:unset;
+}
+a{
+    color:forestgreen;
+}
+a:hover{
+    color:maroon;
+}
+img {
+    margin-left: 100px;
+    width: 400px;; 
+    height: 300px;
+}
